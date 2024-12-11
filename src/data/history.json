@@ -1,0 +1,15 @@
+[
+    {
+      "role": "Python Programming",
+      "imageSrc": "history/python.png"
+    },
+    {
+      "role": "UI Designer",
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "SQL",
+      "imageSrc": "history/sql.jpg"
+    }
+  ]
+  

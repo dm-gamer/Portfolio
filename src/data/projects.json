@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "The food ordering application design in Figma features a user-friendly interface that simplifies the ordering process. Users can effortlessly browse a diverse menu, complete with detailed descriptions of each dish, including ingredients and preparation methods.",
+    "source": "https://shorturl.at/UVy0Q"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "The vehicle management system built using the MERN stack offers an efficient platform for managing vehicles. It simplifies operations such as tracking vehicle details, scheduling maintenance, and monitoring usage.The system leverages MongoDB for data storage.",
+    "source": "https://github.com/dm-gamer/autocarepro.git"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "The Python program fetches cryptocurrency data and exports it to an Excel file, offering a convenient way to manage digital asset information. It retrieves real-time prices, market trends, trading volumes, and other critical details like(raw data)using reliable APIs. ",
+    "source": "https://github.com/dm-gamer/Fetching-and-Analyzing-Top-50-Live-Cryptocurrency-Data.git"
+  }
+]
